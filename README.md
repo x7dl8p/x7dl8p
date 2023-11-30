@@ -1,5 +1,5 @@
 # ☄️ Mohammad Ahmad
-![Ahmad banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
+![Ahmad banner](https://raw.githubusercontent.com/D3vAhmad/D3vAhmad/main/img/ahmad%20banner.jpg)
 
 **`Digital Knight (Developer/GraphicsDesigner)`**
 
@@ -13,8 +13,8 @@ Hi there! i am Mohammad, a 2nd year student with a passion for programming and d
 [![website](./img/twitter-light.svg)](https://twitter.com/brother_mohmmad#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/brother_mohmmad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_kokaop#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_kokaop#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/brother_mohammad#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/brother_mohammad#gh-dark-mode-only)
 &nbsp;&nbsp;
 ---
 
