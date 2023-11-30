@@ -3,15 +3,15 @@
 
 **`Digital Knight (Developer/GraphicsDesigner)`**
 
-Hi there! i am Shoaib, a 2nd year student with a passion for programming and design.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that garnered more than 210,000 views.
+Hi there! i am Mohammad, a 2nd year student with a passion for programming and design.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that garnered more than 210,000 views.
 
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mohammad-ahmad-khan-1bb581266#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mohammad-ahmad-khan-1bb581266#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/D3vShoaib#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/D3vShoaib#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/brother_mohmmad#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/brother_mohmmad#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_kokaop#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_kokaop#gh-dark-mode-only)
