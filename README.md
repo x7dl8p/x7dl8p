@@ -1,5 +1,5 @@
-# ☄️ Shoaib Ahmad
-![shoaib banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
+# ☄️ Mohammad Ahmad
+![Ahmad banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
 
 **`Digital Knight (Developer/GraphicsDesigner)`**
 
@@ -7,8 +7,8 @@ Hi there! i am Shoaib, a 2nd year student with a passion for programming and des
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/D3vShoaib#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/D3vShoaib#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mohammad-ahmad-khan-1bb581266#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mohammad-ahmad-khan-1bb581266#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/D3vShoaib#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/D3vShoaib#gh-dark-mode-only)
