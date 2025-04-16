@@ -1,5 +1,4 @@
 # ☄️ Mohammad Ahmad
-![Ahmad banner](https://raw.githubusercontent.com/D3vAhmad/D3vAhmad/main/img/ahmad%20banner.jpg)
 
 **`Digital Knight (Full stack, next.js & nest.js Developer)`**
 
