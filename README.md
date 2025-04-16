@@ -1,9 +1,11 @@
 # ☄️ Mohammad Ahmad
 ![Ahmad banner](https://raw.githubusercontent.com/D3vAhmad/D3vAhmad/main/img/ahmad%20banner.jpg)
 
-**`Digital Knight (Developer/GraphicsDesigner)`**
+**`Digital Knight (Full stack, next.js & nest.js Developer)`**
 
-Hi there! i am Mohammad, a 3rd year student with a passion for programming and design.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that garnered more than 210,000 views.
+Hi there! I’m Mohammad, a 3rd-year student who takes pleasure in saving APIs and removing extra padding. I’m proficient in React/Next.js and Nest.js frameworks, as well as C/C++ for DSA. I also have over two years of professional experience in graphic design, which enhances my frontend skills, and one year in full-stack development. As a successful freelancer and occasional open-source contributor, I’ve worked on projects that have garnered more than **210,000 views** and **20k organic traffic**.
+
+---
 
 ### Connect with me:
 
@@ -16,8 +18,22 @@ Hi there! i am Mohammad, a 3rd year student with a passion for programming and d
 [![website](./img/instagram-light.svg)](https://instagram.com/brother_mohammad#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/brother_mohammad#gh-dark-mode-only)
 &nbsp;&nbsp;
+
 ---
 
-          
-### 🧰 Languages and Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+### Languages and Tools
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
