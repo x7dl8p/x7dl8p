@@ -1,6 +1,6 @@
 # ☄️ Mohammad Ahmad
 
-**`Digital Knight (Full stack, next.js & nest.js Developer)`**
+**`FUll stackt (next.js/react & nest.js Developer)`**
 
 Hi there! I’m Mohammad, a 3rd-year student who takes pleasure in saving APIs and removing extra padding. I’m proficient in React/Next.js and Nest.js frameworks, as well as C/C++ for DSA. I also have over two years of professional experience in graphic design, which enhances my frontend skills, and one year in full-stack development. As a successful freelancer and occasional open-source contributor, I’ve worked on projects that have garnered more than **210,000 views** and **20k organic traffic**.
 
