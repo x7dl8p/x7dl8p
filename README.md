@@ -9,8 +9,6 @@
 - Four year of experience in design thinking.  
 - Skilled in C/Go for (DSA). 
 
----
-
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mohammad-ahmad-khan-1bb581266#gh-light-mode-only)
@@ -22,8 +20,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/brother_mohammad#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/brother_mohammad#gh-dark-mode-only)
 &nbsp;&nbsp;
-
----
 
 ### Languages and Tools
 
