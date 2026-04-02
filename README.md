@@ -1,13 +1,13 @@
-# ☄️ Mohammad Ahmad
+# Mohammad Ahmad 
 
-**`FUll stack (next.js/react & nest.js Developer)`**
+**`Senior Software Engineer Associate`** [mohammad.is-a.dev](https://mohammad.is-a.dev)
 
-- App dev and occasional open-source contributor and freelancer.
-- Proficient in React/Next.js and Nest.js frameworks.
-- Hi there! I’m Mohammad, a 3rd-year student who takes pleasure in saving APIs and hates padding adjustments.   
-- Over two years of professional experience in frontend (Next/React) + backend (nest.Js) skills .  
-- Four year of experience in design thinking.  
-- Skilled in C/Go for (DSA). 
+* Hi there, I’m Mohammad, creator of the .buf format and OpenSkills.
+* Full-stack iOS and Android app developer (React Native, Flutter, Kotlin Multiplatform).
+* Occasional open-source contributor and former freelancer.
+* Over 3 years of professional experience in the 4N stack (Next, Nest, Neon, Node).
+* 6+ years of experience in design thinking and UX craftsmanship.
+
 
 ### Connect with me:
 
